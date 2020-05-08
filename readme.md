@@ -1,17 +1,17 @@
 # CineFilmes
-https://media.discordapp.net/attachments/571752920685477889/708422300893970512/Screenshot_47.jpg?width=873&height=407
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/708422300893970512/Screenshot_47.jpg?width=873&height=407)
 
-https://media.discordapp.net/attachments/571752920685477889/708422303083397180/Screenshot_48.jpg?width=886&height=406
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/708422303083397180/Screenshot_48.jpg?width=886&height=406)
 
-https://media.discordapp.net/attachments/571752920685477889/708422304140623972/Screenshot_49.jpg?width=894&height=407
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/708422304140623972/Screenshot_49.jpg?width=894&height=407)
 
-https://media.discordapp.net/attachments/571752920685477889/708422306170667078/Screenshot_50.jpg?width=892&height=406
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/708422306170667078/Screenshot_50.jpg?width=892&height=406)
 
-https://media.discordapp.net/attachments/571752920685477889/708423253240316085/Screenshot_51.jpg?width=878&height=406
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/708423253240316085/Screenshot_51.jpg?width=878&height=406)
 
-https://media.discordapp.net/attachments/571752920685477889/708423254418915368/Screenshot_52.jpg?width=878&height=406
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/708423254418915368/Screenshot_52.jpg?width=878&height=406)
 
-https://media.discordapp.net/attachments/571752920685477889/708423260080963584/Screenshot_53.jpg?width=883&height=407
+![alt tag](https://media.discordapp.net/attachments/571752920685477889/708423260080963584/Screenshot_53.jpg?width=883&height=407)
 
 ## Começando
 
