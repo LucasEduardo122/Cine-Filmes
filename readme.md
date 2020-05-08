@@ -96,4 +96,4 @@ Projeto criado com o intuito de aprendizagem. Sem muito efeito visual...
 
 ## Autores
 
-* ** Billie Thompson ** - * Trabalho inicial * - [PurpleBooth] (https://github.com/LucasEduardo122)
+* Trabalho inicial * - [LucasEduardo122] (https://github.com/LucasEduardo122)
